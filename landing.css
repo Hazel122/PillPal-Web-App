@@ -1,0 +1,139 @@
+
+.landing-container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Keep it centered horizontally */
+  justify-content: flex-start; /* Align towards the top */
+  padding-top: 50px; /* Add space from the top */
+  min-height: 100vh;
+  background-image: linear-gradient(45deg, rgb(189, 195, 199) 0.00%,rgb(186, 135, 236) 82.00%);
+}
+
+.landing-header {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: flex-start;
+}
+.landing-icon1 {
+  top: 50px;
+  left: 50%;
+  position: absolute;
+}
+.landing-text1 {
+  top: 34px;
+  left: 42%;
+  position: absolute;
+  font-size: 50px;
+  font-style: normal;
+  font-family: "Merriweather";
+  font-weight: 800;
+}
+.landing-container2 {
+  color: black;
+  font-family: "Merriweather";
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 0px auto; /* Centers the box horizontally */
+  border: 1px solid #ddd;
+  display: flex;
+  flex-direction: column; /* Stack children vertically */
+  gap: 20px; /* Add space between children */
+  padding: 20px; /* Optional padding for better spacing */
+  width: 900px;
+  box-sizing: border-box;
+  line-height: 1cm;
+}
+
+textarea,
+input {
+  width: 100%; /* Make inputs fill the container's width */
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+button {
+  width: 100%; /* Button fills the width of the container */
+  padding: 15px;
+  font-size: 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ade9ff;
+}
+
+.landing-image1 {
+  top: 140px;
+  left: 88px;
+  width: 200px;
+  z-index: 100;
+  position: absolute;
+  object-fit: cover;
+}
+.landing-navlink {
+  top: 38px;
+  left: 30px;
+  position: absolute;
+  font-family: "Merriweather";
+  text-decoration: none;
+  background-color: #ade9ff;
+}
+.landing-textinput1 {
+  top: 30%;
+  left: 30%;
+  width: 621px;
+  height: 88px;
+  position: absolute;
+}
+.landing-image2 {
+  left: -66px;
+  width: 400px;
+  bottom: -44px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.landing-image3 {
+  top: 484px;
+  right: 46px;
+  width: 200px;
+  position: absolute;
+  object-fit: cover;
+}
+/*
+.landing-container3 {
+  right: -17px;
+  width: 100%;
+  bottom: 4px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+}
+  */
+
+.landing-text3 {
+  top: -20%;
+  left: 24%;
+  /*position: absolute;*/
+  font-size: 31px;
+  font-family: "Merriweather";
+}
