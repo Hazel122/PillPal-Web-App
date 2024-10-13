@@ -6,7 +6,7 @@ document.getElementById("queryForm").addEventListener('submit', async (event) =>
    const options = {
      method: 'POST',
      headers: {
-       Authorization: 'Bearer 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', // Ensure this token is correct
+       Authorization: 'Bearer api_token', // Ensure this token is correct
        'Content-Type': 'application/json'
      },
      body: JSON.stringify({
