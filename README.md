@@ -26,6 +26,8 @@ PillPal aims to empower users to take control of their medication safety by prov
 ## Tech Stack
 
 - HTML, CSS, JavaScript
+- used TeleportHQ to design frontend for low-code purpose
+- created a prototype using Java
 
 ## Getting Started
 
@@ -44,7 +46,10 @@ Once the app is running, users can:
 - Check for potential allergy conflicts and receive safety alerts.
 - Look up basic drug safety information.
 
-## Contributing
+## Contributions
+Frontend by Arnt Bhone T, Hazel Z
+Backend by Hazel Z
+Prototype file by Mia
 
 Contributions are welcome! To contribute:
 
