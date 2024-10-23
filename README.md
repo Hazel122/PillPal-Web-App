@@ -25,7 +25,7 @@ PillPal aims to empower users to take control of their medication safety by prov
 
 ## Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
+- HTML, CSS, JavaScript
 
 ## Getting Started
 
