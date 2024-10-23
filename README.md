@@ -47,9 +47,9 @@ Once the app is running, users can:
 - Look up basic drug safety information.
 
 ## Contributions
-Frontend by Arnt Bhone T, Hazel Z
-Backend by Hazel Z
-Prototype file by Mia
+- Frontend by Arnt Bhone T, Hazel Z
+- Backend by Hazel Z
+- Prototype file by Mia M
 
 Contributions are welcome! To contribute:
 
